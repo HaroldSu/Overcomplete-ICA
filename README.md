@@ -1,6 +1,10 @@
 # Overcomplete-ICA
 
-This codes are based on R, to reproduce some figures in the paper "Overcomplete Independent Component Analysis via SDP" by Podosinnikova et al. (2019). The original paper and some other references are included in `papers/`.
+This codes are based on R, to reproduce some figures in the paper "Overcomplete Independent Component Analysis via SDP" by Podosinnikova et al. (2019). 
+
+The original paper and some other references are included in `papers/`.
+
+Some reproduced figures are included in `img/`.
 
 ## Warnings
 Some R packages, including "pracma", "Matrix", "R.matlab" and "imager", would be installed to run these codes. Since some of the function need to call MATLAB server, MATLAB should be installed and set following the instruction of R package "R.matlab" reference manual (please check https://cran.r-project.org/web/packages/R.matlab/R.matlab.pdf).
